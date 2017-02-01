@@ -1,6 +1,8 @@
 python-gmail-api
 ================
 
+[![Join the chat at https://gitter.im/python-gmail-api/Lobby](https://badges.gitter.im/python-gmail-api/Lobby.svg)](https://gitter.im/python-gmail-api/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Connect to the Gmail API using Python 3.
 
 https://github.com/chris-brown-nz/python-gmail-api
